@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.f5628bdc.chunk.css",
-    "main.js": "/static/js/main.45782bb9.chunk.js",
-    "main.js.map": "/static/js/main.45782bb9.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/css/2.52738377.chunk.css": "/static/css/2.52738377.chunk.css",
-    "static/js/2.f6afb6f0.chunk.js": "/static/js/2.f6afb6f0.chunk.js",
-    "static/js/2.f6afb6f0.chunk.js.map": "/static/js/2.f6afb6f0.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.7749d35aa734a02f484b770a40356375.js": "/precache-manifest.7749d35aa734a02f484b770a40356375.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.52738377.chunk.css.map": "/static/css/2.52738377.chunk.css.map",
-    "static/css/main.f5628bdc.chunk.css.map": "/static/css/main.f5628bdc.chunk.css.map"
+    "main.css": "/ps-react-dal/static/css/main.f5628bdc.chunk.css",
+    "main.js": "/ps-react-dal/static/js/main.a13d7a40.chunk.js",
+    "main.js.map": "/ps-react-dal/static/js/main.a13d7a40.chunk.js.map",
+    "runtime~main.js": "/ps-react-dal/static/js/runtime~main.43e23c40.js",
+    "runtime~main.js.map": "/ps-react-dal/static/js/runtime~main.43e23c40.js.map",
+    "static/css/2.52738377.chunk.css": "/ps-react-dal/static/css/2.52738377.chunk.css",
+    "static/js/2.c66e5e8a.chunk.js": "/ps-react-dal/static/js/2.c66e5e8a.chunk.js",
+    "static/js/2.c66e5e8a.chunk.js.map": "/ps-react-dal/static/js/2.c66e5e8a.chunk.js.map",
+    "index.html": "/ps-react-dal/index.html",
+    "precache-manifest.8d6f67f53ee16b5c602fb7e064d0af4a.js": "/ps-react-dal/precache-manifest.8d6f67f53ee16b5c602fb7e064d0af4a.js",
+    "service-worker.js": "/ps-react-dal/service-worker.js",
+    "static/css/2.52738377.chunk.css.map": "/ps-react-dal/static/css/2.52738377.chunk.css.map",
+    "static/css/main.f5628bdc.chunk.css.map": "/ps-react-dal/static/css/main.f5628bdc.chunk.css.map"
   }
 }
