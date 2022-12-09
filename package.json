@@ -142,7 +142,7 @@
     "chokidar": "^1.6.1",
     "enzyme": "^2.9.1",
     "enzyme-adapter-react-16": "^1.14.0",
-    "gh-pages": "^0.12.0",
+    "gh-pages": "^4.0.0",
     "npm-run-all": "^4.0.2",
     "react-addons-test-utils": "^15.6.2",
     "react-docgen": "^2.14.0",
